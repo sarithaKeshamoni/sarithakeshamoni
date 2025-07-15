@@ -1,14 +1,25 @@
-# Hi there! 👋 I'm Saritha K.
+# Hi there!  I'm Saritha K.
 
-Welcome to my GitHub profile — where ideas grow into solutions!
+Welcome to my GitHub — where technology meets strategy! I work at the intersection of **Product Management**, **Quality Engineering**, and **AI-driven solutions**. My focus is on building efficient products and processes that scale.
 
-- 🌱 I’m currently learning **AI-powered product management, advanced QA automation, and modern UI/UX design trends.**  
-- 👯 I’m looking to collaborate on **AI-driven research tools, QA automation frameworks, and product management solutions.**  
-- 🤔 I’m looking for help with **optimizing workflows using AI and building scalable web applications.**  
-- 💬 Ask me about **QA Automation (Cypress, Selenium), product management strategies**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sarithakeshamoni/)** 
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I enjoy understanding how products work and reading code, even though I’m not a full-time coder!**
+## About Me
 
-Thanks for stopping by! Let’s build something great together!
+- I’m currently learning about **AI applications in product management**, **advanced QA automation frameworks**, and **modern UI/UX trends** for web platforms.  
+- I’m looking to collaborate on **AI-powered tools, workflow automation, and scalable web applications.**  
+- I’m looking for help with **streamlining product delivery pipelines using AI and automation.**  
+- Ask me about **QA Automation (Selenium, Cypress, Testsigma), product strategies, agile workflows, or building MVPs.**  
+- How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/sarithakeshamoni/)  
+- Pronouns: She/Her  
+- ⚡ Fun fact: I love understanding products end-to-end and reading code, even though I’m not a full-time coder.
 
+## Skills Snapshot
+
+- **Product Management**: Agile Practices, Requirement Gathering, Roadmapping, Workflow Optimization  
+- **Quality Engineering**: Selenium, Cypress, Testsigma, API Testing  
+- **AI Tools**: Exploring AI integrations for automation and decision-making  
+- **Project Collaboration**: Jira, Confluence, Notion  
+- **UI/UX Awareness**: Focused on improving user experience through collaborative design thinking  
+
+---
+
+Thanks for visiting! Feel free to connect and collaborate
