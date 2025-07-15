@@ -2,7 +2,12 @@
 
 **Product Manager | AI & Automation Enthusiast | Tech-Savvy Strategist**
 
-I bridge the gap between users, business, and technology to build products that solve real problems and scale efficiently. With a background in **QA automation** and a growing passion for **AI-driven solutions**, I focus on delivering practical, data-informed products through collaboration and continuous learning.
+## About Me:
+I’m a Product Manager with a strong foundation in QA automation and a growing focus on AI-powered solutions. My work revolves around understanding technical systems, collaborating with cross-functional teams, and building scalable products that solve real user problems.
+
+While I’m not a typical developer, I enjoy diving into code, system flows, and APIs to better connect technical implementation with product goals. My approach combines strategic thinking, technical awareness, and a user-first mindset.
+
+I believe in continuous learning and using data-driven insights to improve products and processes.
 
 ---
 
